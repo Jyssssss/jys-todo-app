@@ -1,7 +1,7 @@
 import React from "react"
 
 import TodoItem from "./TodoItem"
-import todoData from "../data templates/todoData"
+import todoData from "../data_templates/todoData"
 
 class TodoList extends React.Component {
     constructor(props) {
