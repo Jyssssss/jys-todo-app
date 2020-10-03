@@ -1,6 +1,6 @@
 # Todo List App
 
-A simple demo web application by using ReactJS.
+A simple demo web application by using ReactJS with Webpack.
 
 ## View
 
