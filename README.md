@@ -1,11 +1,45 @@
 # Todo List App
 
-A simple demo web application by using ReactJS with Webpack.
+A simple React web application with Webpack and Babel.
 
-## View
+## Getting Started
 
-![demo](https://i.imgur.com/mr4L4RZ.png)
+### Installation
 
-## Remarks
+1. Clone the project to your local directory.
 
-Data source could be replaced. Currently using a template in data_templates/todoData.js.
+```sh
+git clone https://github.com/Jyssssss/jys-todo-app.git
+```
+
+2. Install dependency packages with npm.
+
+```sh
+npm install
+```
+
+### Run and Build
+
+To run the application. Use the following command:
+
+```sh
+npm start
+```
+
+The application runs on **localhost:8080**.
+
+To build the application. Run the following command:
+
+```sh
+npm run build
+```
+
+The output files will be in <code>/dist</code> folder.
+
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+## Demo
+
+![demo](https://i.imgur.com/wiJVoCQ.png)
